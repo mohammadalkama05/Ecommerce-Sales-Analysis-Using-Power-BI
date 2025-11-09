@@ -3,7 +3,7 @@
 This project presents a *Power BI dashboard* built to analyze ecommerce sales performance and business growth trends using real-world datasets.
 
 ## 📸 Dashboard Preview
-![Ecommerce Sales Analysis Dashboard](Dashboard_preview.png)
+![Ecommerce Sales Analysis Dashboard](dashboard_preview.png)
 
 ## 📁 Dataset
 The project uses two datasets:
