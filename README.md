@@ -31,3 +31,7 @@ The dashboard provides insights into:
 *Mohammad Alkama*  
 
 BCA (Data Science & AI) | [🌐 Connect on LinkedIn](https://www.linkedin.com/in/mohammad-alkama-133520371)
+
+**Anuj Jaiswal**  
+BCA – Data Science & AI  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anuj-116409324)
