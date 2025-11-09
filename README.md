@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Growth Analysis Dashboard
+# 🛒 Ecommerce Sales Analysis Dashboard
 
 This project presents a *Power BI dashboard* built to analyze ecommerce sales performance and business growth trends using real-world datasets.
 
@@ -29,4 +29,5 @@ The dashboard provides insights into:
 
 ## 👨‍💻 Author
 *Mohammad Alkama*  
+
 BCA (Data Science & AI) | [🌐 Connect on LinkedIn](https://www.linkedin.com/in/mohammad-alkama-133520371)
