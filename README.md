@@ -28,7 +28,7 @@ The dashboard provides insights into:
 - Contribution of each payment mode to total revenue
 
 ## 👨‍💻 Author
-*Mohammad Alkama*  
+**Mohammad Alkama**  
 
 BCA (Data Science & AI) | [🌐 Connect on LinkedIn](https://www.linkedin.com/in/mohammad-alkama-133520371)
 
